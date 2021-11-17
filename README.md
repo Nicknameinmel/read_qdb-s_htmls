@@ -1,2 +1,3 @@
 # read_qdb-s_htmls
-Match users' address and the location of their device 
+read the company relationship and print.
+
